@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>t3b.pv.retiros</groupId>
 	<artifactId>EnvioRetirosAutomatico</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>EnvioRetirosAutomatico</name>
 	<description>Proyecto que envía los retiros al BOT</description>
 
