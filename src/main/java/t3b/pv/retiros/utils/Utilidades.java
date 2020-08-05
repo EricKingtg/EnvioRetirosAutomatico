@@ -8,6 +8,9 @@
  */
 package t3b.pv.retiros.utils;
 
+import org.springframework.stereotype.Component;
+
+@Component("utilidades")
 public class Utilidades {
 
     public static String obtieneIp(String tienda) {

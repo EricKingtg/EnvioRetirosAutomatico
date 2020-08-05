@@ -5,7 +5,7 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
 @Component("configIp")
-@PropertySource(value = "file:EnviaTurno.properties") 
+@PropertySource(value = "file:EnviaRetiros.properties") 
 public class HostSybase {
 
 	@Value("${hostSB}")

@@ -25,7 +25,7 @@ import org.springframework.stereotype.Service;
 import t3b.pv.retiros.dto.RetirosDto;
 import t3b.pv.retiros.dto.TiendaDto;
 
-@Service("consultasSybase")
+@Service("consultasMySql")
 public class ConsultasMySqlImpl implements ConsultasMySql {
 
 	private static final Log log = LogFactory.getLog(ConsultasMySqlImpl.class);
